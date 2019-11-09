@@ -1,0 +1,34 @@
+{"name" : "azmiy_thufail",
+"age" : "17",
+"address" : "Jl_Kopo_Gg_Pabrik_Kulit_Utara_Rt02/02_Bandung",
+"hobbies" : ["Music","Game"],
+"is_married" : false,
+"list_school" :[
+	{
+	"name" : "SDN_Babakan_Tarogong",
+	"year_in" : 2006,
+	"year_out" : 2013,
+	"major" : null
+	},
+	{
+	"name" : "SMPN_24_Bandung",
+	"year_in" : 2013,
+	"year_out" : 2016,
+	"major" : null
+	},
+	{
+	"name" : "SMKN_8_Bandung",
+	"year_in" : 2016,
+	"year_out" : 2019,
+	"major" : "Teknik_Elektronika_Industri"
+	}
+],
+"skills" : [
+	{
+	"computer" : "advanced",
+	"electro" : "beginner",
+	"repairing" : "beginner"
+	}
+],
+"interest_in_coding" : true
+}
